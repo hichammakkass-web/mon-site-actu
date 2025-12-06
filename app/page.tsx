@@ -1,4 +1,4 @@
-import { fetchNews } from '@/lib/newsApi';
+import { fetchNews } from '../lib/newsApi';
 import Image from 'next/image';
 import Link from 'next/link';
 
